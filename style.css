@@ -131,3 +131,43 @@ body {
 .quote-footer {
   text-align: right;
 }
+
+.main-action-container {
+  background-color: #3882f6;
+  width: 100%;
+  padding: 48px 0;
+  border-radius: 8px;
+}
+
+.main-action-content {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.call-to-action-header {
+  font-weight: 800;
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.call-to-action-text {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.main-action-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.main-action-link {
+  text-decoration: none;
+  color: #f9faf8;
+  padding: 8px 32px;
+  border: 1px solid #f9faf8;
+  border-radius: 8px;
+  font-weight: 600;
+}
