@@ -171,3 +171,17 @@ body {
   border-radius: 8px;
   font-weight: 600;
 }
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  width: 100%;
+
+  background-color: #1f2937;
+}
+
+.footer-text-copyright {
+  color: #e5e7eb;
+  padding: 32px;
+}
